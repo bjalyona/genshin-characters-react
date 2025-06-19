@@ -1,6 +1,7 @@
 {
   "name": "genshin-characters-react",
   "private": true,
+  "homepage": "https://bjalyona.github.io/genshin-characters-react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
