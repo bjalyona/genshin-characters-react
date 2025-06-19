@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #4a2578;
+  color: #f4f3ee;
+  font-size: 20px;
+}
+
+.navbar .container{
+  padding: 0 30px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site_sections li {
+  list-style: none;
+}
+
+
+.site_sections{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.sections_item {
+  cursor: pointer;
+}

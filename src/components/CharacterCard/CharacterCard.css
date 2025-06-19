@@ -1,0 +1,18 @@
+.weapon_card, .character_card {
+  padding-top: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #dad7d0;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 5px solid #7f4888;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  gap: 10px;
+
+}
+.character_card img {
+  width: 100%;
+}

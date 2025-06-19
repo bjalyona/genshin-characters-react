@@ -1,0 +1,10 @@
+.character_descr {
+  margin-top: 20px;
+  display: flex;
+  gap: 30px;
+  font-size: 30px;
+}
+
+.character_descr img {
+  width: 30%;
+}
